@@ -34,4 +34,8 @@ export default {
 
 <style lang="scss">
 @import "./assets/styles/general";
+#app{
+  background-color: #192734;
+  min-height: 1000px;
+}
 </style>
